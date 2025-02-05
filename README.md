@@ -29,7 +29,8 @@ Local Storage for data persistence
 REST API integration
 
 Demo
-Live Demo
+Live Demo:
+https://anastasiiakorolko.github.io/react_phone-catalog/
 
 Getting Started
 
