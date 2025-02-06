@@ -164,10 +164,11 @@ main {
   text-decoration: none;
   padding: 5px;
 
-  &:active {
-    border-color: #515251;
-    background-color: white;
-    color: black;
+  &.active {
+    font-weight: bold;
+    color: rgb(21, 65, 167);
+    border: 1px solid #a0a1a2;
+    font-weight: 800;
   }
 }
 
