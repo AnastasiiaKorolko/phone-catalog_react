@@ -30,7 +30,7 @@ REST API integration
 
 Demo
 Live Demo:
-https://anastasiiakorolko.github.io/react_phone-catalog/
+https://anastasiiakorolko.github.io/phone-catalog_react/
 
 Getting Started
 
