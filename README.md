@@ -28,7 +28,6 @@ Context API for state management
 Local Storage for data persistence
 REST API integration
 
-Demo
 Live Demo:
 https://AnastasiiaKorolko.github.io/phone-catalog_react/
 
