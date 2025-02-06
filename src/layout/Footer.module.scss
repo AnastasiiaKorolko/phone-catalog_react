@@ -64,6 +64,11 @@ $font-weight-regular: 400;
   font-size: 12px;
   font-weight: 800;
   color: #ffff;
+  transition: color 0.3s;
+
+  &:hover {
+    color: #78b829;
+  }
 }
 
 .footer__elements {
@@ -145,8 +150,8 @@ $font-weight-regular: 400;
 
   }
 
-  .footer__navLink {
-    text-decoration: none;
+  .footer__navLink:hover {
+    color: #78b829;
   }
 
   .footer__elements {
